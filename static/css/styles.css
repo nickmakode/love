@@ -1,0 +1,24 @@
+body
+{
+    background_colour:mediumorchod;
+}
+jumborton
+{
+    margin:20px 150px 10px 150px;
+    height: 20px;
+    background-color: red;
+}
+h1
+{
+    text_align: centre;
+    margin-top: 40px;
+    colour:white;
+    font-size:50px;
+}
+img
+{
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 72%;
+
+}

@@ -1,0 +1,1 @@
+alert("Do You Want To Goto Django REstaurent ")
